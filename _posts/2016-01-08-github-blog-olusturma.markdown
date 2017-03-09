@@ -1,9 +1,13 @@
 ---
-title:  "GitHub.io ile Blog Oluşturma"
-date:   2017-02-26 22:00:00
+layout: post
+title: "GitHub.io ile Blog Oluşturma"
+excerpt: "Github'ı kullanarak bir blog sitesi oluşturmaya çalışacağız."
 categories: [GitHub]
-tags: [GitHub, GitHub.io, Jekyll, Blog,]
+modified: 2017-02-26 00:00:00
+comments: true
+tags: [GitHub, GitHub.io, Jekyll, Blog]
 ---
+
 
 Öncelikle birkaç kavramımız bulunmakta bunları bir açıklayalım.
 
