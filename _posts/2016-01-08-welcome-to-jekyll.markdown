@@ -2,7 +2,7 @@
 title:  "GitHub.io ile Blog Oluşturma"
 date:   2017-02-26 22:00:00
 categories: [GitHub]
-tags: [GitHub,/ GitHub.io,/ Jekyll,/ Blog,]
+tags: [GitHub,'/' GitHub.io,'/' Jekyll,'/' Blog,]
 ---
 
 Öncelikle birkaç kavramımız bulunmakta bunları bir açıklayalım.
