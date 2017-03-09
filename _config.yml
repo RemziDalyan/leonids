@@ -13,7 +13,7 @@ url: 'http://remzidalyan.com'
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Istanbul
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
