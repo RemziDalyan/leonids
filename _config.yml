@@ -3,10 +3,10 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
+title: Remzi DALYAN
+email: rdalyan@outlook.com
 description: A simple and awesome blog theme powered by jekyll.
-url: 'http://remzidalyan.com/'
+url: 'http://remzidalyan.com'
 
 #
 ###################################
@@ -34,7 +34,7 @@ kramdown:
 owner:
   name: Leonids
   avatar: leonids-logo.png
-  job: "A jekyll theme"
+  job: "Computer Engineering"
   bio: "A simple and awesome blog theme powered by jekyll."
   email:
   disqus-shortname:
