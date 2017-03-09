@@ -3,7 +3,7 @@ layout: post
 title: "GitHub.io ile Blog Oluşturma"
 excerpt: "Github'ı kullanarak bir blog sitesi oluşturmaya çalışacağız."
 categories: [GitHub]
-modified: 2017-02-26 00:00:00
+date: 2017-02-26 00:00:00
 comments: true
 tags: [GitHub, GitHub.io, Jekyll, Blog]
 ---
