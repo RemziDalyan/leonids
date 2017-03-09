@@ -32,10 +32,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Remzi DALYAN
   avatar: leonids-logo.png
   job: "Computer Engineering"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "Bir Garip Bilgisayar Mühendisi"
   email:
   disqus-shortname:
   twitter: #username
