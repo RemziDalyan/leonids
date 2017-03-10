@@ -47,7 +47,7 @@ Kriptolojinin sandığımız gibi yakın bir geçmişi yoktur.
 
 Bu şifrelemede var olan metindeki her harf için alfabedeki sırasından 3 harf sonraki harf gelerek oluşturulmuş bir şifreleme yöntemidir.
 
-<img src="{{ site.url }}/images/kgiris/sezar.jpg" alt="{{ site.title }}">
+<img src="{{ site.url }}/img/kgiris/sezar.jpg" alt="{{ site.title }}">
 
 > Plain   :ABCDEFGHIJKLMNOPQRSTUVWXYZ
 >
@@ -61,7 +61,7 @@ Bu şifrelemede var olan metindeki her harf için alfabedeki sırasından 3 harf
 
 Alfabetik mantığı (sezar şifrelemesi ile benzer bir mantık) kullanılarak oluşturulmuş bir şifreleme yöntemidir. Blaise de Vigenére tarafından oluşturulmuştur.
 
-<img src="{{ site.url }}/images/kgiris/vigenere.jpg" alt="{{ site.title }}">
+<img src="{{ site.url }}/img/kgiris/vigenere.jpg" alt="{{ site.title }}">
 
 > Plaintext   : A T T A C K A T D A W N
 >
@@ -75,13 +75,13 @@ Plain text bizim şifrelemek istediğimiz mesajımız onun için yataydaki harfl
 
 Gizlenmiş yazı anlamına gelir ve bilgiyi gizleme bilimine verilen addır. Bu konunun şifrelemeden en önemli farkı gördüğün şeyin içinde önemli bir bilginin gizli olduğunun bilinmemesi veya farkında olunmamasıdır.
 
-<img src="{{ site.url }}/images/kgiris/steganografi.jpg" alt="{{ site.title }}">
+<img src="{{ site.url }}/img/kgiris/steganografi.jpg" alt="{{ site.title }}">
 
 ***Bilgisayar Dünyasında Kuallanımı***
 
 En önemli örneği veri içine veri gömmektir. Resim, ses veya müzik gibi büyük boyutlu dosyaların kodları içine periyodik olarak yapılan bozukluğu insan kulağı veya gözü algıyamaz.
 
-<img src="{{ site.url }}/images/kgiris/steganografi2.jpg" alt="{{ site.title }}">
+<img src="{{ site.url }}/img/kgiris/steganografi2.jpg" alt="{{ site.title }}">
 
   ***HASHING ALGORİTMASI***
 
@@ -89,6 +89,6 @@ Hash algoritması değişken veri kümelerini, sabit uzunluklu veri kümelerine 
 
 Hash algoritması, veritabanında tabloda aranan veriyi hızlı bir şekilde bulmak, veri karşılaştırması işlemlerini hızlandırmak, büyük bir dosyada benzer kayıtları tespit etmek, DNA dizisinde benzer dizilimleri bulmak gibi işlemler için kullanılır.
 
-<img src="{{ site.url }}/images/kgiris/hash.jpg" alt="{{ site.title}}">
+<img src="{{ site.url }}/img/kgiris/hash.jpg" alt="{{ site.title}}">
 
 > Resimde görüldüğü gibi çakışma söz konusu olduğunda aynı anahtara ait veri çakışabilir. Veriler çakıştıkları bu noktadan itibaren bağlı liste olarak dallanır. 2 Anahtarına ait 3 farklı veri geldi bu veriler 2 anahtarından itibaren bağlı liste kuracaktır.
