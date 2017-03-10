@@ -35,11 +35,11 @@ owner:
   name: Remzi DALYAN
   avatar: leonids-logo.png
   job: "Computer Engineering"
-  bio: "Bir Garip Bilgisayar Mühendisi"
+  bio: "Pamukkale University Computer Engineering"
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: RemziDalyan
+  facebook: gltsry.remzi
   google:
     plus: #username
     analytics:
@@ -47,13 +47,13 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: RemziDalyan
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   skype: #username
   xing: #username
-  instagram: #username
+  instagram: remzidalyan
   lastfm: #username
   tumblr: #username
   pinterest: #username

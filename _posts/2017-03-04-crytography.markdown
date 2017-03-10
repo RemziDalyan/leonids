@@ -89,6 +89,6 @@ Hash algoritması değişken veri kümelerini, sabit uzunluklu veri kümelerine 
 
 Hash algoritması, veritabanında tabloda aranan veriyi hızlı bir şekilde bulmak, veri karşılaştırması işlemlerini hızlandırmak, büyük bir dosyada benzer kayıtları tespit etmek, DNA dizisinde benzer dizilimleri bulmak gibi işlemler için kullanılır.
 
-<img src="{{ site.url }}/img/kgiris/hash.jpg" alt="{{ site.title}}">
+<img src="{{ site.url }}/img/kgiris/hash.jpg" alt="{{ site.title }}">
 
 > Resimde görüldüğü gibi çakışma söz konusu olduğunda aynı anahtara ait veri çakışabilir. Veriler çakıştıkları bu noktadan itibaren bağlı liste olarak dallanır. 2 Anahtarına ait 3 farklı veri geldi bu veriler 2 anahtarından itibaren bağlı liste kuracaktır.
