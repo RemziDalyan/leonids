@@ -32,7 +32,7 @@ kramdown:
 ####################################
 #
 owner:
-  name:"Remzi DALYAN"
+  name: "Remzi DALYAN"
   avatar: leonids-logo.png
   job: "Computer Engineering"
   bio: "Pamukkale University Computer Engineering"
