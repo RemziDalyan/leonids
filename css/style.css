@@ -1,66 +1,66 @@
-body {
-  background: "Tranparent";
+body{
+  background: "Transparent"
 }
-#clock {
-  color: red;
-  font-family: 'Helvetica', 'Verdana', 'Arial', sans-serif;
-  font-size: 7.2rem;
-  text-align: center;
-  float: right;
-  position: absolute;
-  bottom: 2.4rem;
-  right: 3.2rem;
-}
-#clock #hour,
-#clock #minutes {
-  padding: 0;
-  margin: 0;
-  text-align: center;
-  line-height: 90%;
-}
-#clock #minutes {
-  clear: left;
-}
-#clock #date {
-  font-size: 1rem;
-  text-transform: uppercase;
-  text-align: center;
-  border: 1px solid white;
-  padding: .3rem 0;
-  margin-top: .3rem;
-}
-@media screen and (max-width: 800px) {
-  #clock {
+  #clock{
+    color: red;
+    font-family: 'Helvetica', 'Verdana', 'Arial', sans-serif;
+    font-size: 7.2rem;
+    text-align: center;
+    float: right;
+    position: absolute;
+    bottom: 2.4rem;
+    right: 3.2rem;
+    #hour, #minutes{
+      padding: 0;
+      margin: 0;
+      text-align: center;
+      line-height: 90%;
+    }
+    #minutes{
+      clear: left;
+    }
+    #date{
+      font-size: 1rem;
+      text-transform: uppercase;
+      text-align: center;
+      border: 1px solid white;
+      padding: .3rem 0;
+      margin-top: .3rem;
+    }
+    
+  }
+@media screen and (max-width: 800px){
+  #clock{
     font-size: 4.8rem;
+    #date{
+      padding-left: .5rem;
+      padding-right: .5rem;
+    }
   }
-  #clock #date {
-    padding-left: .5rem;
-    padding-right: .5rem;
-  }
+  
 }
-@media (max-width: 640px) {
-  #clock {
+@media screen and (max-width: 640px){
+  #clock{
     font-size: 2.4rem;
     border: 1px solid white;
     padding: 1rem;
-  }
-  #clock #hour,
-  #clock #minutes {
-    float: left;
-    clear: none;
-  }
-  #clock #hour::after {
-    content: ':';
-  }
-  #clock #date {
-    border: 0px solid white;
-    line-height: 100%;
-    padding: .3rem 0;
-    margin-bottom: -0.25rem;
+    #hour, #minutes{
+      float: left;
+      clear: none;
+    }
+    #hour::after{
+      content: ':';
+    }
+    #date{
+      border: 0px solid white;
+      line-height: 100%;
+      padding: .3rem 0;
+      margin-bottom: -.25rem;
+    }
   }
 }
-@media (max-width: 640px) {
-  #clock {
+@media screen and (max-width: 640px){
+  #clock{
     right: 1.6rem;
     bottom: 3rem;
   }
