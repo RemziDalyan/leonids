@@ -7,7 +7,34 @@
   <a href="{{ site.url }}/" class="author_name">{{ author.name }}</a>
   <span class="author_job">{{ author.job }}</span>
   <span class="author_bio mbm">{{ author.bio }}</span>
- 
+  <div class="clock">
+      <div class="clock-face">
+        <div class="hand sec-hand"></div>
+        <div class="hand min-hand"></div>
+        <div class="hand hour-hand"></div>
+      </div>
+    </div>
+ body{
+    margin: 0;
+    padding: 0;
+    background-color: #e6e6e6;
+    font-family: sans-serif;
+}
+
+#display{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #3498DB;
+    border-top: 1px solid #d6d6d6;
+    border-bottom: 1px solid #d6d6d6;
+    box-shadow: inset 0 0 8px #252525;
+    color: #e3e3e3;
+    text-align: center;
+    font-size: 6em;
+    display: inline-block;
+}
   <nav class="nav">
     <ul class="nav-list">
       <li class="nav-item">
