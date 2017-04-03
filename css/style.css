@@ -1,8 +1,9 @@
 body{
-  background-color: "white"
+  background: url(http://lorempixel.com/g/1920/1200/cats/) no-repeat bottom right fixed #2F2E2F;
+  background-size: cover;
 }
   #clock{
-    color: red;
+    color: blue;
     font-family: 'Helvetica', 'Verdana', 'Arial', sans-serif;
     font-size: 7.2rem;
     text-align: center;
@@ -40,6 +41,9 @@ body{
   
 }
 @media screen and (max-width: 640px){
+  body{
+    background-image: url(http://lorempixel.com/g/600/600/cats/)
+  }
   #clock{
     font-size: 2.4rem;
     border: 1px solid white;
