@@ -83,12 +83,39 @@ En önemli örneği veri içine veri gömmektir. Resim, ses veya müzik gibi bü
 
 <img src="{{ site.url }}/img/kgiris/steganografi2.jpg" alt="{{ site.title }}">
 
-  ***HASHING ALGORİTMASI***
+  ***ÖZET FONKSİYONLARI (HASH FUNCTION)***
 
-Hash algoritması değişken veri kümelerini, sabit uzunluklu veri kümelerine düzenleyen algortimadır. <font color="red">Örneğin:</font> Değişken uzunluktaki isimleri, tekil tam sayılar olarak hashlenebilir.
+Özet fonksiyonları değişken veri kümelerini, sabit uzunluklu veri kümelerine düzenleyen algoritmadır. <font color="red">Örneğin:</font> Değişken uzunluktaki isimleri, tekil tam sayılar olarak hashlenebilir.
 
-Hash algoritması, veritabanında tabloda aranan veriyi hızlı bir şekilde bulmak, veri karşılaştırması işlemlerini hızlandırmak, büyük bir dosyada benzer kayıtları tespit etmek, DNA dizisinde benzer dizilimleri bulmak gibi işlemler için kullanılır.
+Anlaşılması en basit özet fonsiyonu modülo işlemidir. Buna göre mod10 işlemini ele alalım aşağıdaki sayıları listeleyelim.
+> **Sayılar:** 10 - 8 - 36 - 42 - 64 - 58 - 78 - 65 - 2356 - 7984 - 4123 - 1565 - 262 - 131 - 81 - 79
+>
+>DEMET  | SAYILAR
+>
+>  0    | 10
+>
+>  1    | 81 - 131
+>
+>  2    | 42 - 262
+>
+>  3    | 4123
+>
+>  4    | 64 - 7984
+>
+>  5    | 65 - 1565
+>
+>  6    | 36 - 2356
+>
+>  7    |
+>
+>  8    |  8 - 58 - 78
+>
+>  9    | 79
+
+Yukarıdaki sayıları tek haneli sayılara özetlenmiştir. Tabi ki aynı sayıya özetlenen sayılar olabilir bu durumda çakışma olur.
+
+özet fonksiyonları, veritabanında tabloda aranan veriyi hızlı bir şekilde bulmak, veri karşılaştırması işlemlerini hızlandırmak, büyük bir dosyada benzer kayıtları tespit etmek, DNA dizisinde benzer dizilimleri bulmak gibi işlemler için kullanılır.
 
 <img src="{{ site.url }}/img/kgiris/hash.jpg" alt="{{ site.title }}">
 
-> Resimde görüldüğü gibi çakışma söz konusu olduğunda aynı anahtara ait veri çakışabilir. Veriler çakıştıkları bu noktadan itibaren bağlı liste olarak dallanır. 2 Anahtarına ait 3 farklı veri geldi bu veriler 2 anahtarından itibaren bağlı liste kuracaktır.
+> Resimde görüldüğü gibi çakışma söz konusu olduğunda aynı anahtara ait veriler çakışabilir. Veriler çakıştıkları bu noktadan itibaren bağlı liste olarak dallanır. Örneğin: 2 Anahtarına ait 2 farklı veri geldi bu veriler 2 anahtarından itibaren bağlı liste kuracaktır.
