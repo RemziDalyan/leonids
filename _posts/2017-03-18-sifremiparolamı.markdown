@@ -23,7 +23,7 @@ Tanımlamalarına bakacak olursak;
 
 Peki bu ayrım nereden kaynaklanıyor?
 
-Bu sistemin oluşturulmasında etkili olan dilden kaynaklanıyor diyebiliriz. Şöyle düşünelim. Parola ve şifre ikisi de aynı kelimenin _-password-_ anlamından geldiği için, aynı anlama gelen kelimeler olduğunu sanıyoruz.
+Bu sistemin oluşturulmasında etkili olan dilden kaynaklanıyor diyebiliriz. Şöyle düşünelim. Parola ve şifre ikisi de aynı kelimenin _-password-_ anlamından geldiği için, aynı anlama gelen kelimeler olduğunu sanıyoruz. Fakat aslında öle değiller gördüğümüz gibi.
 
 Başka bir nokta da parolayı biz belirliyoruz bu da demek oluyor ki parolalarımızı ne kadar güvenli görsek de onlar bizim dilimizi bilen başkaları tarafından ne kadar uzun veya karmaşık yapmış olduğunu sanarsanız sanın bulunma ihtimali vardır. Fakat şifre farklı algoritmalara göre değiştirilmiş parolalardır. Bu bilgilere erişilmesi durumda bile hangi algoritma kullanıldığını bilmemek onun çözümünü bulmayı zorlaştırır hatta bazı algoritmalar geri döndürülemez. Yani çözümü imkânsız olur.
 
