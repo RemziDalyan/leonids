@@ -30,4 +30,4 @@ Başka bir nokta da parolayı biz belirliyoruz bu da demek oluyor ki parolaları
 Bu konuyla ilgili olarak Erdem Oflaz’ın yazısını da okuyabilirsiniz. Yazıya ulaşmak için [buraya tıkla…][link1]
 
 
-[link1]  :  [http://www.erdemoflaz.com/sifre-ve-parola-arasindaki-farklar/]
+[link1]:      http://www.erdemoflaz.com/sifre-ve-parola-arasindaki-farklar/
