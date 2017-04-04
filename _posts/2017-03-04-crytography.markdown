@@ -90,27 +90,27 @@ En önemli örneği veri içine veri gömmektir. Resim, ses veya müzik gibi bü
 Anlaşılması en basit özet fonsiyonu modülo işlemidir. Buna göre mod10 işlemini ele alalım aşağıdaki sayıları listeleyelim.
 > **Sayılar:** 10 - 8 - 36 - 42 - 64 - 58 - 78 - 65 - 2356 - 7984 - 4123 - 1565 - 262 - 131 - 81 - 79
 >
->DEMET  / SAYILAR
+>DEMET|/ SAYILAR
 >
->  0    / 10
+>  0|/ 10
 >
->  1    / 81 - 131
+>  1|/ 81 - 131
 >
->  2    / 42 - 262
+>  2|/ 42 - 262
 >
->  3    / 4123
+>  3|/ 4123
 >
->  4    / 64 - 7984
+>  4|/ 64 - 7984
 >
->  5    / 65 - 1565
+>  5|/ 65 - 1565
 >
->  6    / 36 - 2356
+>  6|/ 36 - 2356
 >
->  7    /
+>  7|/
 >
->  8    /  8 - 58 - 78
+>  8|/  8 - 58 - 78
 >
->  9    / 79
+>  9|/ 79
 
 Yukarıdaki sayıları tek haneli sayılara özetlenmiştir. Tabi ki aynı sayıya özetlenen sayılar olabilir bu durumda çakışma olur.
 
