@@ -14,7 +14,9 @@ Birbirleriyle çok karıştırılan kelimeler. Şifre mi? Parola mı? Peki şifr
 > ***Sizce hangisi?***
 
 Tanımlamalarına bakacak olursak;
+
 `Parola`: Bir sisteme giriş yapabilmek için sizin tarafından belirlenen anahtar sözcüktür,
+
 `Şifre:` Bir veriyi değiştirerek anlaşılmaz hale getirme işlemidir.
 
 Örnek verecek olursak parolanız ***“12345”*** iken şifreniz ise sistemin kullandığı şifreleme yöntemi olan MD5’e göre ***“827ccb0eea8a706c4c34a16891f84e7b”*** dir. Yani ikisi aynı şeyler değildir.
