@@ -17,7 +17,7 @@ Tanımlamalarına bakacak olursak;
 
 `Parola`: Bir sisteme giriş yapabilmek için sizin tarafından belirlenen anahtar sözcüktür,
 
-`Şifre:` Bir veriyi değiştirerek anlaşılmaz hale getirme işlemidir.
+`Şifre:` Bir veriyi belli algoritmalarla değiştirerek anlaşılmaz hale getirme işlemi sonucu oluşan üründür.
 
 Örnek verecek olursak parolanız ***“12345”*** iken şifreniz ise sistemin kullandığı şifreleme yöntemi olan MD5’e göre ***“827ccb0eea8a706c4c34a16891f84e7b”*** dir. Yani ikisi aynı şeyler değildir.
 
@@ -27,7 +27,7 @@ Bu sistemin oluşturulmasında etkili olan dilden kaynaklanıyor diyebiliriz. Ş
 
 Başka bir nokta da parolayı biz belirliyoruz bu da demek oluyor ki parolalarımızı ne kadar güvenli görsek de onlar bizim dilimizi bilen başkaları tarafından ne kadar uzun veya karmaşık yapmış olduğunu sanarsanız sanın bulunma ihtimali vardır. Fakat şifre farklı algoritmalara göre değiştirilmiş parolalardır. Bu bilgilere erişilmesi durumda bile hangi algoritma kullanıldığını bilmemek onun çözümünü bulmayı zorlaştırır hatta bazı algoritmalar geri döndürülemez. Yani çözümü imkânsız olur.
 
-Bu konuyla ilgili olarak Erdem Oflaz’ın yazısını da okuyabilirsiniz. Yazıya ulaşmak için [buraya tıkla…][link1]
+Bu konuyla ilgili olarak ***Erdem Oflaz***’ın yazısını da okuyabilirsiniz. Yazıya ulaşmak için [buraya tıkla…][link1]
 
 
 [link1]:      http://www.erdemoflaz.com/sifre-ve-parola-arasindaki-farklar/
