@@ -17,7 +17,7 @@ tags: [GitHub, GitHub.io, Jekyll, Blog]
 
 **`Jekyll:`** Ruby dili ile yazılmış açık kaynak kodlu statik site oluşturucu yazılımdır.
 
-Bu bilgileri öğrendiğimize göre şimdi öncelikle github hesabımız yok ise bir github hesabı oluşturuyoruz. Uluşamak için [buraya][buraya] tıklayınız. Daha sonra [JekyllThemes][jekyll] sitesinden beğendiğimiz bir temayı seçiyoruz. Homepage seçeneğini seçiyoruz. Bu seçenek bizi githuba yönlendirecektir.
+Bu bilgileri öğrendiğimize göre şimdi öncelikle github hesabımız yok ise bir github hesabı oluşturuyoruz. Ulaşamak için [buraya][buraya] tıklayınız. Daha sonra [JekyllThemes][jekyll] sitesinden beğendiğimiz bir temayı seçiyoruz. Homepage seçeneğini seçiyoruz. Bu seçenek bizi githuba yönlendirecektir.
 
 <img src="{{ site.url }}/img/blogolusturma/themes.jpg" alt="{{ page.title }}">
 
