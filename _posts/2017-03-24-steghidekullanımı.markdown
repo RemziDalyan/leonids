@@ -8,7 +8,7 @@ categories: [Tool]
 tags: [Steghide, Tool, Embed, Extract]
 ---
 
-***Stagenografi:*** Eski Yunanca'da "gizlenmiş yazı" anlamına gelir. Amacı var olan bilgi gizlemektir.
+***Steganografi:*** Eski Yunanca'da "gizlenmiş yazı" anlamına gelir. Amacı var olan bilgi gizlemektir.
 
 ***Steghide:*** Çeşitli türlerde verileri gizleyebilen steganografi programıdır.
 
@@ -28,11 +28,11 @@ yazarak kurduğumuz steghide'ın versionunu ve genel kullanım şekillerini gör
 
 <img src="{{ site.url }}/img/steghidekurma/steghidekur2.jpg" alt="{{ page.title }}">
 
-Şimdi yeni bir terminal açalım. Ben kullanacağım resim ve txt dosyasını masaüstüne attım siz başka bir dosyaya atabilirsiniz. Benim 1.png ve cokgizlibelge.txt adında dosyalarım. Şimdi bakalım bu dosyalar neyin nesiymiş. Bu dosyalara bakarken ***File*** komutunu kullanacağız. Bu yaparken bu dosyaların bulunduğu dizine çıkmanız gerekir.
+Şimdi yeni bir terminal açalım. Ben kullanacağım resim ve txt dosyasını masaüstüne attım siz başka bir dosyaya da atabilirsiniz. Benim 1.png ve cokgizlibelge.txt adında dosyalarım. Şimdi bakalım bu dosyalar neyin nesiymiş. Bu dosyalara bakarken ***file*** komutunu kullanacağız. Bunu yaparken bu dosyaların bulunduğu dizine çıkmanız gerekir.
 
 <img src="{{ site.url }}/img/steghidekurma/steghidekur3.jpg" alt="{{ page.title }}">
 
-Görüldüğü gibi standart jpeg ve standart txt dosyası. Şimdi artık saklama işlemini yapabiliriz. Bunun için resmin ve txt dosyasının bulunduğu dizinde;
+Görüldüğü gibi standart jpg ve standart txt dosyası. Şimdi artık saklama işlemini yapabiliriz. Bunun için resmin ve txt dosyasının bulunduğu dizinde;
 
 > steghide embed -cf resim dosyası adı -ef gizlenecek metin dosyası adı
 
