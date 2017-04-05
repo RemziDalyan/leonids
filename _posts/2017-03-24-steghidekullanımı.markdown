@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steghide Kullanımı"
-excerpt: " "
+excerpt: "<img src="{{ site.url }}/img/steghidekurma/steghide.jpg" alt="{{ page.title }}">"
 date: 2017-03-24 00:00:00
 comments: true
 categories: [Tool]
