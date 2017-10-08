@@ -8,5 +8,4 @@ categories: [Kriptoloji]
 tags: [Enigma, Rotor, Machine, Tu]
 ---
 
-
-***New post is a good***
+new post
