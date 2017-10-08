@@ -34,7 +34,7 @@ Branchler bölümünü açıyoruz, burada master olan hariç diğer tüm branchl
 
 <img src="{{ site.url }}/img/blogolusturma/DEFAULT.jpg" alt="{{ page.title }}">
 
-<i class="fa fa-cog" aria-hidden="true">Optionsa</i> Optionsa geliyoruz. Dilerseniz bu bölümde projenizin isimini değiştirebilirsiniz.
+<i class="fa fa-cog" aria-hidden="true">  Optionsa</i> geliyoruz. Dilerseniz bu bölümde projenizin isimini değiştirebilirsiniz.
 
 <img src="{{ site.url }}/img/blogolusturma/name.jpg" alt="{{ page.title }}">
 
