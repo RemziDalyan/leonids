@@ -8,8 +8,8 @@ categories: [Kriptoloji]
 tags: [Encode, Encryption, Kodlama, Şifreleme]
 ---
 
-<i color="red"> ***Encoding:*** </i> Bilgisayarda kodlama (encoding) bir dizi karakterin (harfler, sayılar, noktalama işaretleri, belirli semboller vb.) verimli iletim veya depolama için özel bir biçimde yerleştirilmesi işlemidir. Encoding veri iletişiminde, ağda ve depolamada kullanılır.
+<font color="red"> ***Encoding:*** </font> Bilgisayarda kodlama (encoding) bir dizi karakterin (harfler, sayılar, noktalama işaretleri, belirli semboller vb.) verimli iletim veya depolama için özel bir biçimde yerleştirilmesi işlemidir. Encoding veri iletişiminde, ağda ve depolamada kullanılır.
 
-<i color="red"> ***Encryption:*** </i> elektronik verilerin, şifreli metin olarak adlandırılan ve yetkili taraflar haricindeki kimseler tarafından kolayca anlaşılamayan başka bir biçime dönüştürülmesidir.
+<font color="red"> ***Encryption:*** </font> elektronik verilerin, şifreli metin olarak adlandırılan ve yetkili taraflar haricindeki kimseler tarafından kolayca anlaşılamayan başka bir biçime dönüştürülmesidir.
 
 ***İYİ GÜNLER***
