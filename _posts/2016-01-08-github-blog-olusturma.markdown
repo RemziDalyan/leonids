@@ -4,6 +4,7 @@ title: "GitHub.io ile Blog Oluşturma"
 excerpt: "Github'ı kullanarak bir blog sitesi oluşturmaya çalışacağız."
 categories: [GitHub]
 date: 2017-02-26 00:00:00
+categories: [Github]
 comments: true
 tags: [GitHub, GitHub.io, Jekyll, Blog]
 ---
@@ -33,7 +34,7 @@ Branchler bölümünü açıyoruz, burada master olan hariç diğer tüm branchl
 
 <img src="{{ site.url }}/img/blogolusturma/DEFAULT.jpg" alt="{{ page.title }}">
 
-<i class="icon-cog"></i> Optionsa geliyoruz. Dilerseniz bu bölümde projenizin isimini değiştirebilirsiniz.
+<i class="icon-cog">Optionsa</i> Optionsa geliyoruz. Dilerseniz bu bölümde projenizin isimini değiştirebilirsiniz.
 
 <img src="{{ site.url }}/img/blogolusturma/name.jpg" alt="{{ page.title }}">
 
