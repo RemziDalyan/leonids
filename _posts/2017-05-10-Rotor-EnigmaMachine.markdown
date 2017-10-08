@@ -8,4 +8,4 @@ categories: [Kriptoloji]
 tags: [Enigma, Rotor, Machine, Tu]
 ---
 
-<font color="blue"> **Rotor Machine** </font> 
+**<font color="red"> Rotor Machine </font>**
