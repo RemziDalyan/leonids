@@ -4,24 +4,24 @@
 @charset "UTF-8";
 
 // Mixins
-@import "components/mixins";
+@import "components/_mixins";
 
 // Variables
-@import "components/variables";
+@import "components/_variables";
 
 // Reset
-@import "components/normalize";
+@import "components/_normalize";
 
 // Components
-@import "components/global";
-@import "components/helpers";
-@import "components/grid";
-@import "components/typography";
-@import "components/buttons";
-@import "components/syntax-highlighting";
+@import "components/_global";
+@import "components/_helpers";
+@import "components/_grid";
+@import "components/_typography";
+@import "components/_buttons";
+@import "components/_syntax-highlighting";
 
 // Pages styling
-@import "pages/layout";
-@import "pages/tags";
-@import "pages/archive";
-@import "pages/post";
+@import "pages/_layout";
+@import "pages/_tags";
+@import "pages/_archive";
+@import "pages/_post";
