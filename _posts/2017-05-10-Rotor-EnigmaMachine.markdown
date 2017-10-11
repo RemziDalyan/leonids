@@ -70,15 +70,13 @@ Bu karmaşık mekanizma yüzünden Enigma şifrelerini kırabilmek için aşağ�
 - Mesajın başındaki rotor konumları
 
 **<font color="#212121" size="2">Kaynaklar</font>**
-<font size="2">
+
 1. Rotor Makinesi, [https://tr.wikipedia.org/wiki/Rotor_makinesi][1]
-</font>
-<font size="2">
+
 2. Enigma Makinesi, [https://tr.wikipedia.org/wiki/Enigma_makinesi][2]
-</font>
-<font size="2">
+
 3. Enigma Makinesi, [http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/][3]
-</font>
+
 
 ***İYİ GÜNLER***
 
