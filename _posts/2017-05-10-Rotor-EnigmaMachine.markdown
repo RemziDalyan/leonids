@@ -24,11 +24,9 @@ Sezar şifrelemesinden sonra popüler olmuş bir şifreleme yöntemidir. Mantık
 
 Enigma makinesi fonksiyonel olarak üç bölümden oluşur.
 
----
 1.	Rotor
 2.	Reflektör
 3.	Fiş paneli
----
 
 **<font color="#2c3e50" size="3">Rotor</font>**
 
