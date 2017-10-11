@@ -13,9 +13,9 @@ tags: [Enigma, Rotor, Machine, Tu]
 Sezar şifrelemesinden sonra popüler olmuş bir şifreleme yöntemidir. Mantık birkaç rotorun bir araya getirilmesiyle birlikte şifrelemenin dinamik olarak değiştirilebilmesidir. Örnek olarak ilk harfler bir şifreleme çeşidi, ikinci harfler başka bir şifreleme çeşidi, üçüncü harfler ise başka bir şifreleme çeşidiyle şifrelenebilir. Bu makinelerin en popüler örneği Almanya’nın II. Dünya Savaşı sırasında kullandığı “Enigma Makinesi” dir.
 
 <img src="{{ site.url }}/img/rotor-enigma/rotor.jpg" alt="{{ page.title }}">
-<p style="text-aling:center">
-Rotor makinesi
-</p>
+
+>Rotor makinesi
+
 **<font color="red" size="5"> Enigma Machine (Enigma Makinesi)</font>**
 
 İlk olarak Birinci Dünya Savaşının sonlarında Alman Mühendis Arthur Scherbius tarafından keşfedilmiştir. Üretilen bu model ve varyasyonları 1920’lerin başlarında ticari amaçlı kullanılmış, ardından en dikkat çekeni II. Dünya Savaşı sırasında Nazi Almanya’sı tarafından gizli mesajların şifrelenmesi ve tekrar çözülmesi amacı ile kullanılan bir şifre makinesidir. Daha açık bir ifade ile Rotor makineleri ailesi ile ilişkili bir Elektro-Mekanik aygıttır. Birçok değişik türü vardır. Alman ordusunun kullandığı en çok Wehrmacht Enigma modeliydi.
@@ -24,9 +24,11 @@ Rotor makinesi
 
 Enigma makinesi fonksiyonel olarak üç bölümden oluşur.
 
+---
 1.	Rotor
 2.	Reflektör
 3.	Fiş paneli
+---
 
 **<font color="#2c3e50" size="3">Rotor</font>**
 
