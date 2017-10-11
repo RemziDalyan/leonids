@@ -71,19 +71,10 @@ Bu karmaşık mekanizma yüzünden Enigma şifrelerini kırabilmek için aşağ�
 
 **<font color="#212121" size="2">Kaynaklar</font>**
 
-######### 1. Rotor Makinesi, [https://tr.wikipedia.org/wiki/Rotor_makinesi][1]
+1. Rotor Makinesi<a href="https://tr.wikipedia.org/wiki/Rotor_makinesi">   https://tr.wikipedia.org/wiki/Rotor_makinesi</a>
 
-######### 2. Enigma Makinesi, [https://tr.wikipedia.org/wiki/Enigma_makinesi][2]
+2. Enigma Makinesi<a href="https://tr.wikipedia.org/wiki/Enigma_makinesi">   https://tr.wikipedia.org/wiki/Enigma_makinesi</a>
 
-######### 3. Enigma Makinesi, [http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/][3]
-
+3. Enigma Makinesi<a href="http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/">    http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/</a>
 
 ***İYİ GÜNLER***
-
-
-
-
-
-[1]:  https://tr.wikipedia.org/wiki/Rotor_makinesi
-[2]:  https://tr.wikipedia.org/wiki/Enigma_makinesi
-[3]:  http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/
