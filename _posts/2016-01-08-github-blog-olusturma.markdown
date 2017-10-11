@@ -41,7 +41,7 @@ Ayarlarımızı tamamladık. Sayfamız artık güncellemelerimize hazır...
 
 <img src="{{ site.url }}/img/blogolusturma/http.jpg" alt="{{ page.title }}">
 
-Artık tüm bu hazırladıklarımızı locale çekmemiz lazım. Terminali açıyoruz. **_GitHub Code_** bölümünü açıyoruz. Burada <font color="#00cc00">Clone or Download</font> yazan yeşil alana tıklayıp içinde yazan linki kopyalıyoruz. Terminale geçiyoruz. Dosyayı kaydetmek istediğimiz dizine gidiyoruz. <font color="red">"cd Desktop"</font> gibi. Daha sonra **_git clone <link>_** yazıyoruz._git clone http//github.com/RemziDalyan/Moon.git_ gibi. Yükleme bittikten sonra dosyamız indirdiğimiz dizine geliyor. Dosyadaki belgeleri açabilmek için IDE (text editörü) ye ihtiyacımız var. Bunun için [sublime.text][1] veya [atom][2] kullanabilirsiniz. Dosyayı açıyoruz.
+Artık tüm bu hazırladıklarımızı locale çekmemiz lazım. Terminali açıyoruz. **_GitHub Code_** bölümünü açıyoruz. Burada <font color="#00cc00">Clone or Download</font> yazan yeşil alana tıklayıp içinde yazan linki kopyalıyoruz. Terminale geçiyoruz. Dosyayı kaydetmek istediğimiz dizine gidiyoruz. <font color="red">"cd Desktop"</font> gibi. Daha sonra **_git clone <link>_** yazıyoruz._git clone http//github.com/RemziDalyan/Moon.git_ gibi. Yükleme bittikten sonra dosyamız indirdiğimiz dizine geliyor. Dosyadaki belgeleri açabilmek için text editörüne ihtiyacımız var. Bunun için [sublime.text][1] veya [atom][2] kullanabilirsiniz. Dosyayı açıyoruz.
 
 ***config.yml*** dosyasındaki bilgileri kendimize göre dolduruyoruz. ***posts*** klasörüne bloğumuza yazmak istediğimiz yazıları var olan örnek gibi aynı formatta yazıp ***.markdown*** uzantısı ile kaydediyoruz.
 
