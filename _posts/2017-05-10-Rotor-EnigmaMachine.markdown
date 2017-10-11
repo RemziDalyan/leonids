@@ -17,6 +17,7 @@ Sezar şifrelemesinden sonra popüler olmuş bir şifreleme yöntemidir. Mantık
 Rotor makinesi
 </p>
 **<font color="red" size="5"> Enigma Machine (Enigma Makinesi)</font>**
+
 İlk olarak Birinci Dünya Savaşının sonlarında Alman Mühendis Arthur Scherbius tarafından keşfedilmiştir. Üretilen bu model ve varyasyonları 1920’lerin başlarında ticari amaçlı kullanılmış, ardından en dikkat çekeni II. Dünya Savaşı sırasında Nazi Almanya’sı tarafından gizli mesajların şifrelenmesi ve tekrar çözülmesi amacı ile kullanılan bir şifre makinesidir. Daha açık bir ifade ile Rotor makineleri ailesi ile ilişkili bir Elektro-Mekanik aygıttır. Birçok değişik türü vardır. Alman ordusunun kullandığı en çok Wehrmacht Enigma modeliydi.
 
 <img src="{{ site.url }}/img/rotor-enigma/Enigma_alphabet.jpg" alt="{{ page.title }}">
@@ -33,7 +34,7 @@ Kronometrede olduğu gibi en düşük değerlikli yani en sağdaki rotor İngili
 
 <img src="{{ site.url }}/img/rotor-enigma/Enigma_rotor_set.png" alt="{{ page.title }}">
 
-Makine böylece 263 farklı şifreleme yapabilmektedir. Gözden kaçırılmaması gereken bir konu rotorların çıkarılıp yerlerinin değiştirebileceğidir. Bu da şifreleme de 3! kadar yani 6 kat bir güçlendirme söz konusudur.
+Makine böylece 26<SUP>3</SUP> farklı şifreleme yapabilmektedir. Gözden kaçırılmaması gereken bir konu rotorların çıkarılıp yerlerinin değiştirebileceğidir. Bu da şifreleme de 3! kadar yani 6 kat bir güçlendirme söz konusudur.
 
 **<font color="#2c3e50" size="3">Reflektör</font>**
 
@@ -51,25 +52,34 @@ En basit şekilde klavyeden girilen metni rotorlar vasıtasıyla şifrelemeye so
 
 Bu karmaşık mekanizma yüzünden Enigma şifrelerini kırabilmek için aşağıdaki verilere sahip olmak gerekmektedir:
 
-**<font color="#2980b9" size="2">Makinanın mantıksal yapısı (sabit)</font>**
+**<font color="#2980b9" size="3">Makinanın mantıksal yapısı (sabit)</font>**
 
 - Klavye ile mekanizma arasındaki kablolama
 - Her rotorun kablolama yapısı
 - Rotordaki sıra belirleyen çentiklerin adeti ve yerleri
 - Rotor sonlarındaki yansıtıcının kablolaması
 
-**<font color="#2980b9" size="2">İç ayarlar (seyrek değişir)</font>**
+**<font color="#2980b9" size="3">İç ayarlar (seyrek değişir)</font>**
 
 - Kullanımda olan rotorlar ve rotor konumları
 - Rotorun içindeki alfabenin konumu
 
-**<font color="#2980b9" size="2">Dış ayarlar (değişken)</font>**
+**<font color="#2980b9" size="3">Dış ayarlar (değişken)</font>**
 
 - Ön pano bağlantıları
 - Mesajın başındaki rotor konumları
 
 **<font color="#212121" size="2">Kaynaklar</font>**
+<font size="2">
+1.	Rotor Makinesi, [https://tr.wikipedia.org/wiki/Rotor_makinesi][1]
+2.	Enigma Makinesi, [https://tr.wikipedia.org/wiki/Enigma_makinesi][2]
+3.	Enigma Makinesi, [http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/][3]
+</font>
 
-1.	Rotor Makinesi, https://tr.wikipedia.org/wiki/Rotor_makinesi
-2.	Enigma Makinesi, https://tr.wikipedia.org/wiki/Enigma_makinesi
-3.	Enigma Makinesi, http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/
+***İYİ GÜNLER***
+
+
+
+[1]:  https://tr.wikipedia.org/wiki/Rotor_makinesi
+[2]:  https://tr.wikipedia.org/wiki/Enigma_makinesi
+[3]:  http://bilgisayarkavramlari.sadievrenseker.com/2009/12/02/enigma-makinesi-enigma-machine/
