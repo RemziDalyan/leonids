@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kriptoloji Nedir? Bazı Şifreleme Teknikleri"
+title: "Kriptoli Nedir? Bazı Şifreleme Teknikleri"
 excerpt: "Kriptolojiye Giriş...<br>Kriptoloji: En temel anlamda şifre bilimidir. Kriptografi ve Kriptoanaliz gibi konuları işleyen daldır.</br>"
 date: 2017-03-04 15:25:00
 comments: true

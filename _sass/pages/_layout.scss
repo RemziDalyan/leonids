@@ -29,13 +29,13 @@
   .author_name {
     display: block;
     color: #F36170;
-    font-size: 1.60em;
-    text-transform: capitalize;
+    font-size: 1.75em;
+    text-transform: lowercase;
   }
   .author_job {
     display: block;
     color: $secondary;
-    font-size: 0.9em;
+    font-size: 0.8em;
     font-weight: 700;
     text-transform: uppercase;
     margin: -5px auto 10px;
