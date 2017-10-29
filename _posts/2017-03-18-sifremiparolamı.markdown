@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Şifre ve Parola Arsındaki Fark"
+title: "Şifre ve Parola Arasındaki Fark"
 excerpt: "Şifre nedir veya parola nedir? <br>İkisi arasında nasıl bir fark olabilir ki aynı şeyler değil mi bunlar</br>"
 date: 2017-03-18 00:00:00
 comments: true
